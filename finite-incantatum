@@ -5,7 +5,6 @@ unalias alohomora
 unalias aparecium
 unalias apparate
 unalias avada-kedavra
-unalias depulso
 unalias diminuendo
 unalias engorgio
 unalias epoximize
@@ -26,5 +25,5 @@ unalias reducto
 unalias rennervate
 unalias specialis-revelio
 
-echo 'muggle...'
+echo "don't be such a muggle..."
 echo ''

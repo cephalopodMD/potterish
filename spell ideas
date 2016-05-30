@@ -1,14 +1,14 @@
 accio [object desired]
-    finds/searches for the thing you were looking for
+    finds/searches for the thing you were looking for? maybe sudo apt-get install?
 alohomora
     chmod
 aparecium
     ls -a
 apparate (not an actual spell, but w/e)
     cd
-arresto-momentum
+arresto momentum
     lower process priority?
-avada-kedavra
+avada kedavra
     pkill
 depulso
     mv
@@ -22,11 +22,11 @@ evanesco
     prepend a . to the filename
 fidelius
     encrypts a file
-finite-incantatum
+finite incantatum
     exit
 gemino
     cp or a fork bomb maybe?
-homenum-revelio
+homenum revelio
     finger
 imperio
     sudo
@@ -40,17 +40,19 @@ locomotor
     mv
 lumos
     ls
-lumos-solem
+lumos maxima
+    not really sure, but something to do with ls
+lumos solem
     ls -al
 obliviate
     clear
 pack
     tar a file
-petrificus-totalis
+petrificus totalis
     pkill -TSTP (suspend a process)
 portus
     ln
-prior-incantato
+prior incantato
     history
 reducio
     zip
@@ -58,9 +60,11 @@ reducto
     rm
 rennervate
     pkill -CONT (resume a process)
+scourgify
+    sudo apt-get remove -purge
 silencio
     redirects stdout of a process to /dev/null
-specialis-revelio
+specialis revelio
     file
 unpack
     untar a file
