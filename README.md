@@ -1,5 +1,7 @@
-# potterish
-The Harry Potter shell
+# Potterish
+### The Harry Potter shell
+
+I like unix. I don't like unix commands. They would be easier to learn as spells from Harry Potter.
 
 1. alohomora = chmod
 2. aparecium = 'ls -a'
@@ -24,3 +26,5 @@ The Harry Potter shell
 21. reducto = rm
 22. rennervate = 'pkill -CONT'
 23. specialis-revelio = file
+
+TODO - add a make file, install to /usr/local/bin
